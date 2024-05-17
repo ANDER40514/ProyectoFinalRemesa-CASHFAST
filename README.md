@@ -1,4 +1,4 @@
-# ProyectoFinalRemesa-CASHFAT
+# ProyectoFinalRemesa - CASHFAST
 Repositorio Creado con el proposito de guardar el proyecto final de Java
 
 ![CASHFAST](https://github.com/ANDER40514/ProyectoFinalRemesa-CASHFAST/assets/104466387/6fc723e8-aca8-4be9-9736-54a29aab5694)
@@ -12,6 +12,13 @@ FORM REGISTER
 
 
 ![CASHFAST-REGISTER](https://github.com/ANDER40514/ProyectoFinalRemesa-CASHFAST/assets/104466387/da2b611c-eb4d-4d45-8e7a-69223f1c67e5)
+
+GUI ValidateTransation
+
+
+![CASHFAST-VALIDATE](https://github.com/ANDER40514/ProyectoFinalRemesa-CASHFAST/assets/104466387/ac39e9b9-a2e3-40ad-acef-3def2afbbcf1)
+
+
 
 FORM REALIZAR ENVIO
 
